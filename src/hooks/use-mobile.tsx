@@ -1,5 +1,5 @@
 import * as React from "react"
-
+// added mobie use feature
 const MOBILE_BREAKPOINT = 768
 
 export function useIsMobile() {
