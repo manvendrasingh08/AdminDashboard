@@ -58,12 +58,12 @@ const trafficData = [
 
 export const ChartsPage: React.FC = () => {
   return (
-    <div className="space-y-6">
-      {/* Header */}
-      <div>
-        <h1 className="text-3xl font-bold text-foreground">Analytics & Charts</h1>
-        <p className="text-muted-foreground">Visualize your data with beautiful, interactive charts.</p>
-      </div>
+    // <div className="space-y-6">
+    //   {/* Header */}
+    //   <div>
+    //     <h1 className="text-3xl font-bold text-foreground">Analytics & Charts</h1>
+    //     <p className="text-muted-foreground">Visualize your data with beautiful, interactive charts.</p>
+    //   </div>
 
       {/* Chart Grid */}
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
